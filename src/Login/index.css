@@ -1,0 +1,17 @@
+.background-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+  font-family: Roboto;
+  height: 100vh;
+}
+
+.login-section-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #272727;
+}
